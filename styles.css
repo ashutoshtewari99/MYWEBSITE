@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
 }
 /* ------------Header--------------- */
 #header{
@@ -23,13 +23,13 @@ height: 150px;
 border: 2px solid white;
 }
 .user-box h1{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     color: white;
     
     margin: 10px;
 }
 .user-box p{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     color: white;
    font-size: 20px;
 }
@@ -225,6 +225,7 @@ z-index: 1;
 .services-box:hover p{
     color:white;
 }
+/* ---------------------Contact--------------------- */
 
 
 
