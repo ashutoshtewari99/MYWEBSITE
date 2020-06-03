@@ -68,6 +68,8 @@ border-radius: 30px;
 .profile-img
 {
     height: 400px;
+    border-radius: 20px;
+    
 }
 .nav-bar
 {
@@ -175,6 +177,7 @@ z-index: 1;
     height: 20px;
     z-index: 1;
 } 
+/* -------------Services--------------- */
 
 
 
