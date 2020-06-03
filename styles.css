@@ -6,7 +6,7 @@ body{
 /* ------------Header--------------- */
 #header{
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/background.jpg);
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/background2.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -19,7 +19,7 @@ body{
 }
 .user-box img{
 border-radius: 50%;
-width: 250px;
+height: 250px;
 border: 2px solid white;
 }
 .user-box h1{
@@ -73,7 +73,28 @@ position: sticky;
 z-index: 2;
 }
 .navbar{
-    background-color: teal;
+    background-color: black;
+}
+.navbar-brand img{
+    height: 50px;
+}
+.nav-bar .fa-bars
+{
+    font-size: 35px;
+    color: white;
+}
+.navbar-toggler
+{
+    outline: none !important;
+}
+.navbar-nav
+{
+    float: right;
+    text-align: right;
+}
+.nav-link
+{
+    color: white !important;
 }
 
 
