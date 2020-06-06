@@ -199,6 +199,10 @@ z-index: 1;
     height: 20px;
     z-index: 1;
 } 
+.timeline li:hover:before
+{
+    background: tomato; 
+}
 .timeline li p:hover{
     box-shadow: 10px 10px 5px grey;
     padding: 5px 0 5px 20px;
